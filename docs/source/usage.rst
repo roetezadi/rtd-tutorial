@@ -35,6 +35,7 @@ For example:
 
 Instruction num2
 ----------------
+
 This is a test for adding a new bar to the Installation header.
 a code should be add for another test:
 
