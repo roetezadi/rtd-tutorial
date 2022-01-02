@@ -13,5 +13,20 @@ Contents
 
 .. toctree::
 
-   Getting Started
-   Documentation
+   .. toctree::
+   :maxdepth: 1
+   :caption: Getting started
+
+   docs/installation.md
+   docs/quickstart.md
+   docs/contributing.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Documentation
+
+   tasks.rst
+   frameworks.rst
+   docs/datasets.md
+   docs/embeddings.md
+   docs/models.md
