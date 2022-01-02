@@ -17,9 +17,9 @@ Contents
    :maxdepth: 1
    :caption: Getting started
 
-   docs/installation.md
-   docs/quickstart.md
-   docs/contributing.md
+   docs/source/installation.md
+   docs/source/quickstart.md
+   docs/source/contributing.md
 
 .. toctree::
    :maxdepth: 2
@@ -27,6 +27,6 @@ Contents
 
    tasks.rst
    frameworks.rst
-   docs/datasets.md
-   docs/embeddings.md
-   docs/models.md
+   docs/source/datasets.md
+   docs/source/embeddings.md
+   docs/source/models.md
