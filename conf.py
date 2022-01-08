@@ -20,9 +20,9 @@ from sphinx_markdown_parser.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
-project = 'DaNLP'
-copyright = '2020, Alexandra Institute'
-author = 'Alexandra Institute'
+project = 'Dadmatools'
+copyright = '2021, Dadmatech Company'
+author = 'Dadmatech Company'
 
 
 # -- General configuration ---------------------------------------------------
@@ -75,14 +75,14 @@ html_theme_options = {
         'titles_only': False
 }
 
-html_title = "DaNLP documentation"
-html_logo = "docs/imgs/danlp_logo.png"
-html_favicon = "docs/imgs/danlp_logo.png"
+html_title = "DadmaTools documentation"
+# html_logo = "docs/imgs/dadmatools_logo.png"
+# html_favicon = "docs/imgs/dadmatools_logo.png"
 #html_style = 'custom.css'
 
 master_doc = 'index'
 
-github_doc_root = 'https://github.com/alexandrainst/danlp/tree/master/readthedocs/docs'
+github_doc_root = 'https://github.com/Dadmatech/DadmaTools/tree/master/readthedocs/docs'
 
 
 autosectionlabel_prefix_document = True
