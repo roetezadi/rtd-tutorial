@@ -7,6 +7,7 @@ If you want to contribute to the DadmaTools project, your help is very welcome. 
 
 - Contribute with your own pretrained NLP models, embeddings, or datasets in Persian.
 You can add also your own pipeline using `add_pipe` when you have created `dadmatools.pipeline.language.pipeline`.
+
 ```python
 import dadmatools.pipeline.language as language
 pips = '<choose whatever you want for pipelion>' 
