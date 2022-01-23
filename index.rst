@@ -17,3 +17,14 @@ The project features code examples on how to use the datasets, embeddings, and m
    docs/gettingstarted/contributing.md
 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Tasks
+
+   docs/tasks/embeddings.md
+   docs/tasks/datasets.md
+   docs/tasks/pos.md
+   docs/tasks/dependency.md
+   docs/tasks/ner.md
+
+
